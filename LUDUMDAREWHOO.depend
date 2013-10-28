@@ -1,0 +1,111 @@
+# depslib dependency file v1.0
+1377474836 source:/home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<sstream>
+	<cmath>
+	"map.h"
+	"general.h"
+	"graphics.h"
+	"character.h"
+	"timer.h"
+	"gameplay.h"
+	"scroll.h"
+
+1377436252 /home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/general.h
+	<vector>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	"timer.h"
+
+1377474557 /home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/graphics.h
+	"general.h"
+	"character.h"
+	<cstring>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+	<vector>
+
+1377468343 /home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/character.h
+	<cmath>
+	<cstring>
+	"general.h"
+	"timer.h"
+
+1377370318 /home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/map.h
+	"general.h"
+	"graphics.h"
+	<vector>
+	<fstream>
+
+1377349183 /home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/timer.h
+	"general.h"
+
+1377451746 /home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/gameplay.h
+	"general.h"
+
+1377471173 /home/stephen/Desktop/Programming/C++/little_progs/LUDUMDAREWHOO/scroll.h
+	"general.h"
+	<cstring>
+
+1377492392 source:c:\programming\gits\10-second-runny-guy-ld48\main.cpp
+	<cstdlib>
+	<stdlib.h>
+	<cstdlib>
+	<iostream>
+	<SDL/SDL.h>
+	<sstream>
+	<cmath>
+	"map.h"
+	"general.h"
+	"graphics.h"
+	"character.h"
+	"timer.h"
+	"gameplay.h"
+	"scroll.h"
+
+1377492392 c:\programming\gits\10-second-runny-guy-ld48\map.h
+	"general.h"
+	"graphics.h"
+	<vector>
+	<fstream>
+
+1377492392 c:\programming\gits\10-second-runny-guy-ld48\general.h
+	<vector>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+	<iostream>
+	"timer.h"
+
+1377492392 c:\programming\gits\10-second-runny-guy-ld48\timer.h
+	"general.h"
+
+1377492392 c:\programming\gits\10-second-runny-guy-ld48\graphics.h
+	"general.h"
+	"character.h"
+	<cstring>
+	<SDL/SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL/SDL_image.h>
+	<vector>
+
+1377492392 c:\programming\gits\10-second-runny-guy-ld48\character.h
+	<cmath>
+	<cstring>
+	"general.h"
+	"timer.h"
+
+1377492392 c:\programming\gits\10-second-runny-guy-ld48\gameplay.h
+	"general.h"
+
+1377492392 c:\programming\gits\10-second-runny-guy-ld48\scroll.h
+	"general.h"
+	<cstring>
+
